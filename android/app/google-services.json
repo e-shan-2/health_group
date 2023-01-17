@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "373538048491",
+    "project_id": "upload-files-393d8",
+    "storage_bucket": "upload-files-393d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373538048491:android:ed0f370fedfbe4ee1571ae",
+        "android_client_info": {
+          "package_name": "com.appinventiv.health_group"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373538048491-fe9ndqvb6s06fek047pgmn9eraflvmke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4UtmADXKipg6_EdQuwmqoICcwGeRirt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373538048491-fe9ndqvb6s06fek047pgmn9eraflvmke.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "373538048491-fdq50oefgnb9gmb52nuusbvj7vh0888q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appinventiv.healthGroup"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
